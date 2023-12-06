@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[144],{2144:function(t){t.exports=JSON.parse('{"collection":"https://iiif.onb.ac.at/presentation/collection/lustspiel/","featured":["http://iiif.onb.ac.at/presentation/ABO/Z102981103/manifest/"],"metadata":["Author","Place of Publication"]}')}}]);
