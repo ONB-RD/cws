@@ -1,13 +1,7 @@
 {
-  "collection": "https://example.org/iiif/collection.json",
-  "devCollection": "https://example.org/iiif/collection-small-sample.json",
+  "collection": "https://iiif.onb.ac.at/presentation/collection/lustspiel/",
   "featured": [
-    "https://example.org/manifest-1.json",
-    "https://example.org/manifest-2.json"
+    "http://iiif.onb.ac.at/presentation/ABO/Z102981103/manifest/"
   ],
-  "metadata": ["Date", "Subject"],
-  "label": { "none": ["Collection Title"] },
-  "summary": {
-    "none": ["Brief description of the site and its contents."]
-  }
+  "metadata": ["Author", "Place of Publication"]
 }
